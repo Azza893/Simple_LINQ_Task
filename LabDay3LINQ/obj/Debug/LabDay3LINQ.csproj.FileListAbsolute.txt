@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\bin\Debug\LabDay3LINQ.exe.config
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\bin\Debug\LabDay3LINQ.exe
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\bin\Debug\LabDay3LINQ.pdb
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\obj\Debug\LabDay3LINQ.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\obj\Debug\LabDay3LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\obj\Debug\LabDay3LINQ.csproj.CopyComplete
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\obj\Debug\LabDay3LINQ.exe
+C:\Users\Dell\source\repos\LabDay3LINQ\LabDay3LINQ\obj\Debug\LabDay3LINQ.pdb
